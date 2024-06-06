@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jeeva000111
-- 👀 I’m interested in data Science  
-- 🌱 I’m currently learning Excel,Python,SQL,ML&AI
+- 👋 Hi, I’m Jeevanantham Sankaran
+- 👀 I’m interested in Digital Platform 
+- 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
